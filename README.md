@@ -35,3 +35,13 @@ Datasets used:
 ## III. PROJECT SUMMARY
 
 With this dataset we aim to solve a common problem in NLP (Natural Language Processing), which is automatic text summarization, using machine learning alghoritms (in this case, an abstractive approach) and Reinforcement Learning.
+
+## IV. PREREQUISITES
+
+- nltk
+- keras
+- tensorflow
+- pandas
+- numpy
+- bs4
+- Python 3
