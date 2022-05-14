@@ -11,7 +11,7 @@ Group of Students:
 
 ## I. PROJECT GOALS
 
-*"The goal of this project is to apply suitable machine learning algorithms learned in class or self-learned to solve a specific problem. Represent the results in graphical/table formats and make analysis and conclusions."*
+*"The goal of this project is to apply Reinforcement Learning and suitable machine learning algorithms learned in class or self-learned to solve a specific problem. Represent the results in graphical/table formats and make analysis and conclusions."*
 
 ## II. DATA INFORMATIONS
 
