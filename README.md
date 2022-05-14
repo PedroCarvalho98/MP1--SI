@@ -4,10 +4,10 @@
 
 Group of Students:
 
-    Beatriz Costa
-    Luís Silva
-    Pedro Carvalho
-    Tiago Pinho
+- Beatriz Costa
+- Luís Silva
+- Pedro Carvalho
+- Tiago Pinho
 
 ## I. PROJECT GOALS
 
@@ -19,18 +19,18 @@ Group of Students:
 
 Data repositories used:
 
-    1) Kaggle Data Repository : https://www.kaggle.com/datasets
-    2) TensorFlow Datasets: https://www.tensorflow.org/datasets
+1) Kaggle Data Repository : https://www.kaggle.com/datasets
+2) TensorFlow Datasets: https://www.tensorflow.org/datasets
 
 
 ### ii. CHOSEN DATASETS
 
 Datasets used:
 
-    1) Amazon Fine Food Reviews: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
-        *"This dataset consists of reviews of fine foods from amazon. The data span a period of more than 10 years, including all ~500,000 reviews up to October 2012. Reviews include product and user information, ratings, and a plain text review. It also includes reviews from all other Amazon categories."*
-    2) Gigaword: https://www.tensorflow.org/datasets/catalog/gigaword
-        *"Headline-generation on a corpus of article pairs from Gigaword consisting of around 4 million articles."*
+1) Amazon Fine Food Reviews: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+   *"This dataset consists of reviews of fine foods from amazon. The data span a period of more than 10 years, including all ~500,000 reviews up to October 2012. Reviews include product and user information, ratings, and a plain text review. It also includes reviews from all other Amazon categories."*
+2) Gigaword: https://www.tensorflow.org/datasets/catalog/gigaword
+   *"Headline-generation on a corpus of article pairs from Gigaword consisting of around 4 million articles."*
 
 ## III. PROJECT SUMMARY
 
